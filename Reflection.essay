@@ -1,0 +1,7 @@
+Q1
+Explain why the entire read-modify-write sequence in add_comment and add_reply must run inside a single lock, and discuss the tradeoffs between one global lock and per-post locks.
+
+
+Q2
+Explain why the service must return serialized snapshots instead of internal objects, and what could go wrong if get_comments returned internal lists or objects directly, especially under concurrent reads and writes.
+
