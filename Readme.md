@@ -1,5 +1,5 @@
 
-# Q2: In-memory comments and replies
+In-memory comments and replies
 
 ## What you should know
 
